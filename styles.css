@@ -1,0 +1,39 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+.top-most-section{
+    border: 1px solid black;
+    padding: 20px;
+    margin:20px;
+}
+.top-most-section h1{
+    text-decoration: underline;
+    margin: 0;
+}
+.top-most-section a{
+    color: black;
+}
+.middle{
+    padding:0 22px;
+}
+.middle h1{
+    text-decoration: underline;
+    margin: 0;
+}
+.middle a{
+    color: black;
+}
+.middle img{
+    display: block;
+    height:auto;
+    width: 40%;
+    margin: 10px 0;
+}
+.bottom h1{
+    text-decoration: underline;
+    margin: 20px;
+}
+.bottom li{
+    margin: 5px;
+}
